@@ -9,7 +9,7 @@ https://github.com/latitudegames/GPT-3-Encoder/pull/33
 ## Install with npm
 
 ```
-npm install --save tonikprofik/gpt-3-encoder
+npm install --save tonikprofik/GPT-3-Encoder-browser
 ```
 
 ## Usage
